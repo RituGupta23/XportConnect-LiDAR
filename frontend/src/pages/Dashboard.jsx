@@ -5,7 +5,6 @@ import {
   CurrencyDollarIcon,
   FaceSmileIcon,
 } from "@heroicons/react/24/outline";
-import OrderDashboard from "../components/OrderManagement";
 
 const data = [
   { name: "Jan", Shipments: 4000, Claims: 2400 },

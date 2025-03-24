@@ -27,12 +27,12 @@ LiDAR is an AI-driven platform designed to streamline communication and processe
 ## **Technology Stack**
 
 ### **Frontend**
-- **HTML** and **Flask**: For a simple and intuitive user interface.
-- **Chart.js/D3.js**: For visualizing analytics and performance trends.
+- **React** and **TailwindCSS**: For a simple, customizable and intuitive user interface.
+- **Chart.js**: For visualizing analytics and performance trends.
 
 ### **Backend**
-- **Flask Framework**: Lightweight architecture to integrate and serve AI models.
-- **PostgreSQL**: Handles structured claim data and analytics for quick retrieval.
+- **Flask Framework**: Lightweight architecture to integrate and serve AI models as an API.
+- **MongoDB**: Handles structured claim data and analytics for quick retrieval.
 - **TensorFlow** and **Scikit-Learn**: Runs locally for image recognition and NLP-based sentiment analysis.
 
 ### **AI Models**
